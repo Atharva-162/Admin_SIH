@@ -1,0 +1,27 @@
+/* Existing CSS styles */
+
+.image-buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .clickable-image {
+    width: 150px; /* Adjust width as needed */
+    height: 100px; /* Adjust height as needed */
+    margin: 10px 0; /* Adjust vertical margin for space */
+    cursor: pointer;
+    /*align-items: center;*/
+  }
+  
+  .top-button {
+    margin-bottom: 20px; /* Extra space after the top button */
+  }
+  
+  .lower-buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
